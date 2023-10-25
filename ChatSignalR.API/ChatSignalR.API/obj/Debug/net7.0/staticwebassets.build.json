@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DDqPz8b8uP/BWldQow17A0K6V+23esXJtPRyMACU6oQ=",
+  "Source": "ChatSignalR.API",
+  "BasePath": "_content/ChatSignalR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
